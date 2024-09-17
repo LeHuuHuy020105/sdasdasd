@@ -1,0 +1,11 @@
+h1 {
+  color: blue;
+  font-style: italic; /* kiểu chữ*/
+  font-family: "Times New Roman", Times, serif; /*phông chữ*/
+  /* chuyển hoa thường*/
+  text-transform: lowercase; /* lowercase: chuyển thg hết // uppercase:chuyển hoa hết // capitaline: viết hoa cái đầu */
+  text-align: center; /* căn lề */
+  font-size: 18px; /*cỡ chữ*/
+
+
+}
